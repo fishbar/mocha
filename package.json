@@ -32,7 +32,7 @@
     "diff": "1.0.2",
     "debug": "*",
     "mkdirp": "0.3.3",
-    "ms": "0.3.0"
+    "ms": "2.0.0"
   },
   "devDependencies": {
     "should": "*",
